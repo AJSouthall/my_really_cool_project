@@ -1,3 +1,4 @@
-awesome proj
+awesome project
 
 Added info
+
